@@ -43,3 +43,6 @@ tmp.py
 
 # models files
 *.dat
+*.bin
+./models/*
+./model/*/*
